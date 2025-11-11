@@ -1,4 +1,4 @@
-# IoT-Connect-Hub-Smart-Crop-Monitoring-System-
+# IoT-Connect-Hub-Smart-Crop-Monitoring-System
 This project presents a novel Internet of Things (IoT) system for real-time monitoring and 
 management of crop health. The system leverages an ESP8266 microcontroller with built-in 
 Wi-Fi to collect environmental data from various sensors and transmit it wirelessly to a cloud 

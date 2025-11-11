@@ -24,4 +24,5 @@ temperature sensor, moisture sensor and DC motor. This system starts to check th
 and moisture level. The sensors are used to sense the level of water and if the level is below 
 the range then the system automatically stars watering. According to the change in temperature 
 level the sensor does its job. IoT also shows the information of humidity, moisture level by 
-including
+including date and time. The temperature level based on type of crops cultivated can also be 
+adjusted. 
